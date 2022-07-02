@@ -10,7 +10,9 @@
     </div>
   </div>
 </template>
-<script setup></script>
+<script setup>
+
+</script>
 <style scoped lang="less">
 .home {
   max-width: 1200px;
